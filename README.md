@@ -161,30 +161,6 @@ class NaeemAkmal:
 
 ---
 
-## 🏆 Certifications & Purple Team Roadmap
-
-```
- COMPLETED ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅  CEH   — Certified Ethical Hacker (EC-Council)
-  ✅  MCSA  — Microsoft Certified Solutions Associate
-  ✅  Networking Fundamentals
-  ✅  Wazuh SIEM · Static Malware Analysis · Dynamic Malware Analysis
-  ✅  Vulnerability Assessment (Nessus, Invicti, ZAP)
-
- IN PROGRESS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🔄  MITRE ATT&CK Framework
-  🔄  Detection Engineering
-  🔄  Blue Team Hardening
-
- NEXT TARGET ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🎯  eJPT  →  PNPT  →  OSCP
-
- END GOAL ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🟣  Purple Team · Adversary Simulation · VECTR · Caldera · CRTO
-```
-
----
-
 ## 📡 Connect With Me
 
 <div align="center">
