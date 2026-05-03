@@ -226,8 +226,6 @@ if __name__ == "__main__":
 ## 📊 Operational Statistics
 <div align="center">
 
-&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAkmal&layout=compact&theme=midnight-purple&bg_color=0d0014&title_color=e0aaff&text_color=c77dff&border_color=3c096c&hide_border=false&langs_count=8&hide=html,css,scss" />
 </a>
 
