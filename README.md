@@ -224,11 +224,9 @@ if __name__ == "__main__":
 ---
 
 ## 📊 Operational Statistics
-<div align="center">
 
- 
 
-</div>
+ </div>
 
 <div align="center">
 
