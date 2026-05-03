@@ -225,23 +225,6 @@ if __name__ == "__main__":
 
 ## 📊 Operational Statistics
 
-<div align="center">
-
-<!-- Stats Row 1 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAkmal&show_icons=true&theme=midnight-purple&bg_color=0d0014&title_color=e0aaff&icon_color=9d4edd&text_color=c77dff&border_color=3c096c&hide_border=false&count_private=true&include_all_commits=true&ring_color=9d4edd" />
-</a>
-&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAkmal&layout=compact&theme=midnight-purple&bg_color=0d0014&title_color=e0aaff&text_color=c77dff&border_color=3c096c&hide_border=false&langs_count=8&hide=html,css,scss" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=NaeemAkmal&theme=midnight-purple&background=0d0014&border=3c096c&ring=9d4edd&fire=e0aaff&currStreakLabel=e0aaff&sideLabels=c77dff&dates=7b2cbf&currStreakNum=e0aaff&sideNums=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
