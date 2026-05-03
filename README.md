@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ENHANCED VENOM BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,25:3b0066,50:7c3aed,75:4c00b0,100:0a0014&height=260&section=header&text=Hafiz%20Naeem%20Akmal&fontSize=60&fontColor=e9d5ff&animation=twinkling&fontAlignY=36&desc=Offensive%20Security%20%E2%80%A2%20Malware%20Analyst%20%E2%80%A2%20SOC%20Operator&descAlignY=64&descColor=c4b5fd&descSize=20&stroke=7c3aed&strokeWidth=2" />
+<!-- ENHANCED VENOM BANNER - Richer purple/black cyber security vibe -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:05000a,20:240046,40:3c096c,50:5a189a,60:7b2cbf,80:9d4edd,100:05000a&height=270&section=header&text=Naeem%20Akmal&fontSize=70&fontColor=e0aaff&animation=twinkling&fontAlignY=36&desc=Offensive%20Security%20%E2%80%A2%20Malware%20Analyst%20%E2%80%A2%20SOC%20Operator&descAlignY=65&descColor=c77dff&descSize=20&stroke=7b2cbf&strokeWidth=3" />
 
 </div>
 
@@ -10,18 +10,18 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=%F0%9F%94%B4+Offensive+Security+%7C+Red+Team+Ops;%F0%9F%94%B5+SOC+Operations+%7C+SIEM+%2B+SOAR;%F0%9F%96%A5%EF%B8%8F+Malware+Analysis+%7C+Reverse+Engineering;%E2%9A%A1+Break+It.+Detect+It.+Fix+It.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=%F0%9F%94%B4+Offensive+Security+%7C+Red+Team+Ops;%F0%9F%94%B5+SOC+Operations+%7C+SIEM+%2B+SOAR;%F0%9F%96%A5%EF%B8%8F+Malware+Analysis+%7C+Reverse+Engineering;%E2%9A%A1+Break+It.+Detect+It.+Fix+It.)](https://git.io/typing-svg)
 
 </div>
 
 <!-- PROFILE METRICS -->
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=NaeemAkmal&color=6e00ff&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=NaeemAkmal&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![](https://img.shields.io/github/followers/NaeemAkmal?color=6e00ff&label=FOLLOWERS&style=for-the-badge&logo=github)
+![](https://img.shields.io/github/followers/NaeemAkmal?color=7b2cbf&label=FOLLOWERS&style=for-the-badge&logo=github)
 &nbsp;
-![](https://img.shields.io/github/stars/NaeemAkmal?color=6e00ff&label=STARS&style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/NaeemAkmal?color=7b2cbf&label=STARS&style=for-the-badge&logo=github)
 
 </div>
 
@@ -52,16 +52,16 @@
 └─# cat /etc/passwd | grep naeem
 
     ┌────────────────────────────────────────────────────────────────────┐
-    │  🆔  Name        :  Hafiz Naeem Akmal                            │
-    │  👤  Handle      :  @NaeemAkmal                                   │
-    │  📍  Location    :  Lahore, Pakistan 🇵🇰                          │
-    │  🎓  Education   :  BS Computer Science                          │
-    │                    The University of Lahore (Expected 2027)       │
-    │  🏅  Certifications                                                   │
-    │       ├─ Certified Ethical Hacker (CEH) — EC-Council              │
-    │       └─ Cyber Security Diploma (CCNA, MCSA, CEH) — PNY Trainings│
-    │  📧  Email       :  naeemakmaltts15@gmail.com                    │
-    │  💼  LinkedIn    :  linkedin.com/in/naeemakmal15                 │
+    │  🆔  Name        :  Naeem Akmal                                   │
+    │  👤  Handle      :  @NaeemAkmal                                    │
+    │  📍  Location    :  Lahore, Pakistan 🇵🇰                           │
+    │  🎓  Education   :  BS Computer Science                             │
+    │                    The University of Lahore (Expected 2027)          │
+    │  🏅  Certifications                                                    │
+    │       ├─ Certified Ethical Hacker (CEH) — EC-Council               │
+    │       └─ Cyber Security Diploma (CCNA, MCSA, CEH) — PNY Trainings   │
+    │  📧  Email       :  naeemakmaltts15@gmail.com                     │
+    │  💼  LinkedIn    :  linkedin.com/in/naeemakmal15                    │
     └────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -79,7 +79,7 @@ class NaeemAkmal:
     """
     SOC Operator | Offensive Security | Malware Analyst
     """
-    identity = "Hafiz Naeem Akmal"
+    identity = "Naeem Akmal"
     role     = "Cybersecurity Student & Practitioner"
     location = "Lahore, Pakistan 🇵🇰"
     
@@ -224,28 +224,18 @@ if __name__ == "__main__":
 
 | Operation | Description | Arsenal |
 |:---|:---|:---|
-| [**AI-Driven SOC Automation & SOAR**](https://github.com/NaeemAkmal) | Automated SOAR pipeline: n8n + Wazuh + VirusTotal + Gemini AI log summarization + email alerting | `n8n` `Wazuh` `VirusTotal` `Gemini AI` |
-| [**Malware Analysis & Wazuh SIEM Lab**](https://github.com/NaeemAkmal) | Win32/Simda + Win32/Renos static+dynamic analysis, IOC extraction, MITRE ATT&CK mapping, real-time SIEM alerts | `Wazuh` `PEStudio` `FakeNet-NG` `Procmon` |
-| [**Enterprise Vulnerability Assessment**](https://github.com/NaeemAkmal) | Full-scope Nessus Expert audit: Windows AD, Cisco infrastructure, web applications + executive remediation reports | `Nessus` `Active Directory` `Cisco` |
-| [**AI Network Anomaly Detection**](https://github.com/NaeemAkmal) | ML-powered anomaly detection using Wireshark PCAP data + Scikit-learn K-Means clustering | `Python` `Wireshark` `Scikit-learn` |
-| [**Azure Metadata Enumerator (MSF)**](https://github.com/NaeemAkmal) | Custom Ruby Metasploit auxiliary module for Azure IMDS post-exploitation reconnaissance | `Ruby` `Metasploit` `Azure` |
-| [**SNMP Exploitation Lab**](https://github.com/NaeemAkmal) | Cisco administrative takeover via SNMP exploitation in EVE-NG virtual environment | `Cisco` `EVE-NG` `Kali Linux` |
-| [**Advanced MitM ARP Poisoning**](https://github.com/NaeemAkmal) | ARP poisoning + DHCP spoofing with full traffic capture and Wireshark analysis | `Ettercap` `Kali` `Wireshark` |
-| [**Steganography Toolkit**](https://github.com/NaeemAkmal) | 10+ tools for image/audio/metadata steganography with steganalysis detection | `Steghide` `Linux` `CTF` |
-| [**Static Malware Analysis Lab**](https://img.shields.io/badge/) | PE structure deep-dive, string analysis, IOC hunting with GUI + CLI workflows | `PEStudio` `CAPA` `FLOSS` `YARA` |
-| [**Nmap Stealth Automator**](https://github.com/NaeemAkmal) | Automated Nmap evasion: MTU/Fragment/Decoy + SYN/XMAS/Idle scans | `Python` `Nmap` |
-| [**DVWA Security Audit**](https://github.com/NaeemAkmal) | Comparative vulnerability assessment: OWASP ZAP vs Invicti on DVWA | `ZAP` `Invicti` `DVWA` |
-| [**hping3 Automation Scanner**](https://github.com/NaeemAkmal) | Automated stealth scanning + network enumeration with hping3 | `Python` `hping3` |
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=NaeemAkmal&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+| **AI-Driven SOC Automation & SOAR** | Automated SOAR pipeline: n8n + Wazuh + VirusTotal + Gemini AI log summarization + email alerting | `n8n` `Wazuh` `VirusTotal` `Gemini AI` |
+| [**Malware Analysis & Wazuh SIEM Lab**](https://github.com/NaeemAkmal/Malware-Analysis-Wazuh-SIEM-Lab) | Win32/Simda + Win32/Renos static+dynamic analysis, IOC extraction, MITRE ATT&CK mapping, real-time SIEM alerts | `Wazuh` `PEStudio` `FakeNet-NG` `Procmon` |
+| [**Enterprise Vulnerability Assessment**](https://github.com/NaeemAkmal/Nessus-Expert-Network-Security-Audit-Lab) | Full-scope Nessus Expert audit: Windows AD, Cisco infrastructure, web applications + executive remediation reports | `Nessus` `Active Directory` `Cisco` |
+| [**AI Network Anomaly Detection**](https://github.com/NaeemAkmal/AI-Powered-Network-Anomaly-Detection) | ML-powered anomaly detection using Wireshark PCAP data + Scikit-learn K-Means clustering | `Python` `Wireshark` `Scikit-learn` |
+| [**Azure Metadata Enumerator (MSF)**](https://github.com/NaeemAkmal/Azure-Metadata-Enumerator-MSF) | Custom Ruby Metasploit auxiliary module for Azure IMDS post-exploitation reconnaissance | `Ruby` `Metasploit` `Azure` |
+| [**SNMP Exploitation Lab**](https://github.com/NaeemAkmal/Network-Security-SNMP-Exploitation) | Cisco administrative takeover via SNMP exploitation in EVE-NG virtual environment | `Cisco` `EVE-NG` `Kali Linux` |
+| [**Advanced MitM ARP Poisoning**](https://github.com/NaeemAkmal/Advanced-MitM-ARP-Poisoning-DHCP-Spoofing) | ARP poisoning + DHCP spoofing with full traffic capture and Wireshark analysis | `Ettercap` `Kali` `Wireshark` |
+| [**Steganography Toolkit**](https://github.com/NaeemAkmal/Steganography-HiddenData-Toolkit) | 10+ tools for image/audio/metadata steganography with steganalysis detection | `Steghide` `Linux` `CTF` |
+| [**Static Malware Analysis Lab**](https://github.com/NaeemAkmal/Static-Malware-Analysis-Lab) | PE structure deep-dive, string analysis, IOC hunting with GUI + CLI workflows | `PEStudio` `CAPA` `FLOSS` `YARA` |
+| [**Nmap Stealth Automator**](https://github.com/NaeemAkmal/nmap-stealth-automator) | Automated Nmap evasion: MTU/Fragment/Decoy + SYN/XMAS/Idle scans | `Python` `Nmap` |
+| [**DVWA Security Audit**](https://github.com/NaeemAkmal/DVWA-Security-Audit-Comparison) | Comparative vulnerability assessment: OWASP ZAP vs Invicti on DVWA | `ZAP` `Invicti` `DVWA` |
+| [**hping3 Automation Scanner**](https://github.com/NaeemAkmal/hping3-automation-scanner) | Automated stealth scanning + network enumeration with hping3 | `Python` `hping3` |
 
 </div>
 
@@ -255,32 +245,28 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaeemAkmal&show_icons=true&theme=tokyonight&bg_color=0d0020&title_color=a855f7&icon_color=7c3aed&text_color=d4b8ff&border_color=3b0764&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&ring_color=a855f7" alt="GitHub Stats" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAkmal&layout=compact&theme=tokyonight&bg_color=0d0020&title_color=a855f7&text_color=d4b8ff&border_color=3b0764&hide_border=false&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
+<!-- Stats Row 1 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAkmal&show_icons=true&theme=midnight-purple&bg_color=0d0014&title_color=e0aaff&icon_color=9d4edd&text_color=c77dff&border_color=3c096c&hide_border=false&count_private=true&include_all_commits=true&ring_color=9d4edd" />
+</a>
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAkmal&layout=compact&theme=midnight-purple&bg_color=0d0014&title_color=e0aaff&text_color=c77dff&border_color=3c096c&hide_border=false&langs_count=8&hide=html,css,scss" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NaeemAkmal&theme=tokyonight&background=0d0020&border=3b0764&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7&sideLabels=d4b8ff&dates=6d28d9&currStreakNum=d4b8ff&sideNums=d4b8ff&stroke=3b0764)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=NaeemAkmal&theme=midnight-purple&background=0d0014&border=3c096c&ring=9d4edd&fire=e0aaff&currStreakLabel=e0aaff&sideLabels=c77dff&dates=7b2cbf&currStreakNum=e0aaff&sideNums=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaeemAkmal&bg_color=0d0020&color=a855f7&line=7c3aed&point=d4b8ff&area=true&area_color=7c3aed&hide_border=false&border_color=3b0764&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaeemAkmal&bg_color=0d0014&color=e0aaff&line=9d4edd&point=c77dff&area=true&area_color=9d4edd&hide_border=false&border_color=3c096c&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -290,11 +276,11 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0020?style=for-the-badge&logo=linkedin&logoColor=a855f7&label=linkedin.com/in/naeemakmal15&labelColor=0d0020)](https://linkedin.com/in/naeemakmal15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0020?style=for-the-badge&logo=linkedin&logoColor=9d4edd&label=linkedin.com/in/naeemakmal15&labelColor=0d0020)](https://linkedin.com/in/naeemakmal15)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d0020?style=for-the-badge&logo=github&logoColor=a855f7&label=@NaeemAkmal&labelColor=0d0020)](https://github.com/NaeemAkmal)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0020?style=for-the-badge&logo=github&logoColor=9d4edd&label=@NaeemAkmal&labelColor=0d0020)](https://github.com/NaeemAkmal)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d0020?style=for-the-badge&logo=gmail&logoColor=a855f7&label=naeemakmaltts15@gmail.com&labelColor=0d0020)](mailto:naeemakmaltts15@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0020?style=for-the-badge&logo=gmail&logoColor=9d4edd&label=naeemakmaltts15@gmail.com&labelColor=0d0020)](mailto:naeemakmaltts15@gmail.com)
 
 </div>
 
@@ -313,6 +299,6 @@ if __name__ == "__main__":
 <!-- FOOTER WAVE -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:6e00ff,100:0a0014&height=120&section=footer&fontColor=a855f7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05000a,50:5a189a,100:05000a&height=120&section=footer&fontColor=e0aaff&animation=fadeIn" />
 
 </div>
